@@ -2,3 +2,11 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+
+body {
+  background-color: bisque;
+}
+
+h1 {
+  background-color: blanchedalmond;
+}
