@@ -7,6 +7,30 @@ body {
   background-color: bisque;
 }
 
-h1 {
-  background-color: blanchedalmond;
+h1, h3 {
+  background-color: rgb(67, 63, 56);
+  color: blanchedalmond;
+  border-radius: 12px;
+  border-width: 50px;
+  border: 50px;
+}
+
+.intro-header{
+  background-color: rgb(85, 124, 67);
+  text-align: center;
+  border-radius: 12px;
+}
+
+img {
+  border-radius: 12px;
+}
+
+p{
+  color: white;
+  font-weight: 400;
+}
+
+.full-story{
+  background-color: dimgray;
+  border-radius: 12px;
 }
